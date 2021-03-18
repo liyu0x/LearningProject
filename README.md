@@ -336,7 +336,7 @@ PS: 课程不难，但是证明某些数学公式相当困难，像我这种对�
 4. [IBM DEVELOPER](https://developer.ibm.com/) IBM开发者网站，现在中文站正在维护，上面的文章质量不知道比CSDN高了多少倍。
 5. [墨刀](https://www.modao.cc/) 一款很方便的产品设计工具。
 6. [Jenkins](https://www.jenkins.io/) 无论怎么说，它总是一款方便的运维工具
-7. [MIT 图书馆](https://openlearninglibrary.mit.edu/) 虽然这辈子也无法称为MIT的学生，但是也可以上上MIT的课呀
+7. [MIT 图书馆](https://openlearninglibrary.mit.edu/) 虽然这辈子也无法成为MIT的学生，但是也可以上上MIT的课呀
 
 
 
