@@ -46,6 +46,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 
 
+
+
+
+
+
+
 ### 计算机的数学
 
 课程由MIT提供，[MIT 6.042 'Mathematics for Computer Science'](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/course/)
@@ -59,6 +65,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 优先级：<b style='color:red'>中</b>
 
 课程态度：课程难度不高，对于纯计算机方向来说，数学是工具而并非我们研究的主体。
+
+
+
+
+
+
 
 
 
@@ -77,6 +89,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 优先级：<b style='color:red'>低</b>
 
 课程态度：此课程虽然是基础课程但并非入门课程，也并非互联网上所描述的CS学生必看课程，课程具有一定的难度，但学习这门课程可以从更深层次去理解什么是编程，典型的例如什么是递归、什么是迭代？这门课程搭配的是Scheme语言，函数式编程语言，<b style='color:red'>强烈建议日常使用面向对象语言的工程师</b>学习此课程，能为写出更好的代码带来帮助。
+
+
+
+
+
+
 
 
 
@@ -100,9 +118,17 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 
 
+
+
+
+
+
+
 ### 高等数学相关
 
 不要死磕学术，计算机科学众多权威都表示，“数学不应该成为学生们学习计算机的阻碍”，但也不要忽视数学。
+
+
 
 #### 线性代数
 
@@ -148,9 +174,21 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 
 
+
+
+
+
+
+
 ## 工程应用
 
 不仅学习学术，也不要忘了工程。
+
+
+
+
+
+
 
 
 
@@ -170,6 +208,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 
 
+
+
+
+
+
+
 ### Effective Java
 
 本项目没有视频，为电子书。
@@ -186,6 +230,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 
 
+
+
+
+
+
+
 ### Spring源码深度解析
 
 本项目没有视频，为电子书。
@@ -199,6 +249,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 笔记：无
 
 课程态度：不了解Spring的原理，又如何在工程中将Spring的特性发挥的淋漓尽致呢？作为Java目前最火的框架，Spring及其生态圈为Java带来了许多名声。如果研究者们为Java带来更多丰富的特性，例如Lambda编程或虚拟机模块化，那Spring就是"传教士"，将高大上的特性工程化，使更多的工程师能发现新特性的优点。
+
+
+
+
 
 
 
@@ -232,9 +286,21 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 
 
+
+
+
+
+
+
 ## 数据科学
 
 有些人说是科学，有些人说是玄学，有些人说是神学。
+
+
+
+
+
+
 
 ### 机器学习入门
 
@@ -256,6 +322,12 @@ PS: 课程不难，但是证明某些数学公式相当困难，像我这种对�
 
 
 
+
+
+
+
+
+
 ## 资源
 
 1. [交友网站 GITHUB](https://github.com/)
@@ -265,6 +337,12 @@ PS: 课程不难，但是证明某些数学公式相当困难，像我这种对�
 5. [墨刀](https://www.modao.cc/) 一款很方便的产品设计工具。
 6. [Jenkins](https://www.jenkins.io/) 无论怎么说，它总是一款方便的运维工具
 7. [MIT 图书馆](https://openlearninglibrary.mit.edu/) 虽然这辈子也无法称为MIT的学生，但是也可以上上MIT的课呀
+
+
+
+
+
+
 
 
 
@@ -286,6 +364,12 @@ PS: 课程不难，但是证明某些数学公式相当困难，像我这种对�
 10. 无意义的996只会害你
 11. 系统设计跟其他不同，它是一门艺术，它总希望自己能简单简单更简单。
 12. 谨防信息不对称情况的交流，这种人一般都是不怀好意，比如跟学计算机的谈环境科学，跟学环境科学的谈体育。
+
+
+
+
+
+
 
 
 
