@@ -13,9 +13,30 @@
 
 
 
-[TOC]
+Table of Contents
+=================
 
+   * [Learning Project(持续更新)](#learning-project持续更新)
+      * [计算机基础](#计算机基础)
+         * [计算机的数学](#计算机的数学)
+         * [计算机程序的结构和解释](#计算机程序的结构和解释)
+         * [Computer Systems: A Programmer's Perspective](#computer-systems-a-programmers-perspective)
+         * [高等数学相关](#高等数学相关)
+            * [线性代数](#线性代数)
+            * [高等数学](#高等数学)
+      * [工程应用](#工程应用)
+         * [深入理解JAVA虚拟机](#深入理解java虚拟机)
+         * [Effective Java](#effective-java)
+         * [Spring源码深度解析](#spring源码深度解析)
+      * [云计算](#云计算)
+         * [分布式系统](#分布式系统)
+      * [数据科学](#数据科学)
+         * [机器学习入门](#机器学习入门)
+      * [资源](#资源)
+      * [大神们的建议](#大神们的建议)
+      * [计划](#计划)
 
+Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 
 
